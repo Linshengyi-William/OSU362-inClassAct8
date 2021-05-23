@@ -1,5 +1,5 @@
 #partial code adapted from:https://www.javatpoint.com/python-check-leap-year
-def isLeapYear(year)
+def isLeapYear(year):
     if (999 < year <= 10000):
         if (year % 4) == 0:  
             if (year % 100) == 0:  
